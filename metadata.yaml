@@ -1,0 +1,40 @@
+_repo: Testamento-Poetico-Anachreontico_22729
+_version: 0.1.0
+alternative_title: Testamento Poético-Anacreôntico
+contributor:
+  commentator:
+    agent_name: Pousão, Francisco Nunes
+    alias: Pousao, Francisco Nunes
+    birthdate: 1830
+    gutenberg_agent_id: '25510'
+    url: http://www.gutenberg.org/2009/agents/25510
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, João de Figueiredo Maio e
+    alias: Lima, Joao de Figueiredo Maio e
+    birthdate: 1779
+    deathdate: 1851
+    gutenberg_agent_id: '25509'
+    url: http://www.gutenberg.org/2009/agents/25509
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22729'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Elvas:\r\nTypographia e Stereotypia Progresso\r\nRua de Manoel\
+  \ Gomes Estella, 2-B\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Testamento Poetico-Anachreontico
+url: http://www.gutenberg.org/ebooks/22729
